@@ -1,0 +1,5 @@
+{
+  "name": "Ad Visualizer AI",
+  "description": "Upload a product image and instantly visualize it on various ad surfaces like billboards, bus stops, and social media using AI.",
+  "requestFramePermissions": []
+}
